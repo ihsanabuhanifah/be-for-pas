@@ -50,8 +50,7 @@ const index = async (req, res) => {
       offset: page, // 'mulai dari tambah 1'
       limit: pageSize, // 'banyak data yang ditampillan'
     });
-    console.log("page", page);
-    console.log("pageSize", pageSize);
+
     return res.json({
       status: "Success",
       msg: "Daftar User Ditemukan",
@@ -299,7 +298,7 @@ async function roleUser(req, res) {
       data: data,
     });
   } catch (err) {
-    console.log(err)
+    console.log(err);
     return res.sendStatus(403);
   }
 }

@@ -1,0 +1,81 @@
+{
+  "payload": [
+    {
+      "namaProduk": "SPOTEC Sepatu Walking Havana",
+      "rating": "5.0",
+      "harga": "200000",
+      "stok": "20",
+      "kategori": "sepatu",
+      "deskripsi": "FILA Sepatu Jalan Wanita Rosaleen tebuat dari material knitting atau mesh dan mempunyai desain bergaya sporty. Bagian insole produk ini terbuat dari bahan sintetis, outsole phylon yang empuk, dan tambahan detail vibrant lining. Model sepatu wanita untuk jalan-jalan ini dilengkapi tali sepatu sehingga akan lebih seimbang saat dipakai berjalan. Bukan hanya nyaman dipakai, sepatu FILA juga dikenal awet ddalam jangka waktu yang lama.",
+      "gambarProduk": [
+        {
+          "gambar1": "https://ceklist.id/wp-content/uploads/2022/03/Model-Sepatu-Wanita-untuk-Jalan-Jalan-Santai.jpg"
+        },
+        {
+          "gambar2": "https://ceklist.id/wp-content/uploads/2022/03/1-Sepatu-Wanita-untuk-Jalan-jalan-FILA-Sepatu-Jalan-Wanita-Rosaleen-%E2%80%93-Beige.jpg"
+        },
+        {
+          "gambar3": "https://ceklist.id/wp-content/uploads/2022/03/3-Sepatu-Wanita-untuk-Jalan-jalan-Blow-Parsel-Sepatu-Sneakers-Wanita-BLAS-0019.jpg"
+        }
+      ]
+    },
+    {
+        "namaProduk": "Astec Elite Women’s Walking Shoes",
+        "rating": "4.5",
+        "harga": "350000",
+        "stok": "34",
+        "kategori": "sepatu",
+        "deskripsi": "Model sepatu wanita untuk jalan-jalan dari SPOTEC ini didesain slip on dan terbuat dari bahan synthetic leather premium. Bagian insole sepatu terbuat dari material EVA, sedangkan outsole terbuat dari bahan phylon yang antislip. Pada produk ini juga terdapat komponen breatheble sandwitch mesh sehingga udara lebih mudah keluar-masuk sepatu. Selain ringan, SPOTEC Havana juga sangat fleksibel untuk kegiatan ringan sehari-hari. ",
+        "gambarProduk": [
+          {
+            "gambar1": "https://ceklist.id/wp-content/uploads/2022/03/4-Sepatu-Wanita-untuk-Jalan-jalan-Aerostreet-Lalisa-Natural-Biru-Tua-Sneakers-Casual-21LL18.jpg"
+          },
+          {
+            "gambar2": "https://ceklist.id/wp-content/uploads/2022/03/6-Sepatu-Wanita-untuk-Jalan-jalan-SNEAKYPAIR-Careera-Evening-Dune-Sport-Shoes.jpg"
+          },
+          {
+            "gambar3": "https://ceklist.id/wp-content/uploads/2022/03/7-Sepatu-Wanita-untuk-Jalan-jalan-Astec-Elite-Women_s-Walking-Shoes-%E2%80%93-White.jpg"
+          }
+        ]
+      },
+      {
+        "namaProduk": "Tas Anak",
+        "rating": "4.5",
+        "harga": "500000",
+        "stok": "34",
+        "kategori": "tas",
+        "deskripsi": "Ukuran tas yang tepat tidak boleh melebihi besar tubuh anak. Umumnya, ukuran ransel yang pas adalah 5 cm di atas pinggang. Jika tidak, si kecil bisa merasakan nyeri punggung dan jadi membungkuk karena beban yang terlalu berat.",
+        "gambarProduk": [
+          {
+            "gambar1": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_300/https://www.ruparupa.com/blog/wp-content/uploads/2022/07/tas-sekolah-marvel.jpg"
+          },
+          {
+            "gambar2": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_500/https://www.ruparupa.com/blog/wp-content/uploads/2022/07/tas-sekolah-spiderman.jpg"
+          },
+          {
+            "gambar3": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_300/https://www.ruparupa.com/blog/wp-content/uploads/2022/07/tas-sekolah-my-little-pony.jpg"
+          }
+        ]
+      },
+      {
+        "namaProduk": "Tas Ransel",
+        "rating": "3.8",
+        "harga": "550000",
+        "stok": "10",
+        "kategori": "tas",
+        "deskripsi": "Ukuran tas yang tepat tidak boleh melebihi besar tubuh anak. Umumnya, ukuran ransel yang pas adalah 5 cm di atas pinggang. Jika tidak, si kecil bisa merasakan nyeri punggung dan jadi membungkuk karena beban yang terlalu berat.",
+        "gambarProduk": [
+          {
+            "gambar1": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/438859/item/goods_09_438859.jpg?width=1600&impolicy=quality_75"
+          },
+          {
+            "gambar2": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/438859/sub/goods_438859_sub19.jpg?width=1600&impolicy=quality_75"
+          },
+          {
+            "gambar3": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/438859/sub/goods_438859_sub23.jpg?width=1600&impolicy=quality_75"
+          }
+        ]
+      }
+      
+  ]
+}

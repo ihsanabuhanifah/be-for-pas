@@ -26,4 +26,14 @@ const validationRegister = [
     .withMessage("jenis kelamin hanya laki-laki peempuan"),
 ];
 
-module.exports = { validationRegister };
+
+const validationLogin = [
+
+  check("email")
+    .isEmail()
+    .withMessage("Gunakan Email Valid"),
+  check("password").isLength({ min: 8 }).withMessage("Password wajib 8 huruf"),
+  
+];
+
+module.exports = { validationRegister, validationLogin };
