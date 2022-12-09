@@ -11,6 +11,7 @@ const {
   createManyProduk,
   listProduk,
   detailProduk,
+  getKategori
 } = require("../controller/ProdukController");
 
 const { tambahBeli, getBeli } = require("../controller/BeliController");
@@ -47,6 +48,7 @@ const {
 router.post("/produk/tambah", createManyProduk);
 router.get("/produk/list", paginatioMiddleware, listProduk);
 router.get("/produk/detail/:uuid", detailProduk);
+router.get("/kategori", getKategori);
 
 //auth
 router.post("/lupa-password", lupaPassword);

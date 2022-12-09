@@ -21,7 +21,7 @@ module.exports = {
         type: Sequelize.STRING
       },
       harga: {
-        type: Sequelize.STRING
+        type: Sequelize.INTEGER
       },
       stok: {
         type: Sequelize.INTEGER
